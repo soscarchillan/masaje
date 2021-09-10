@@ -1,0 +1,38 @@
+.banner{
+    background-color: rgb(86, 182, 182);
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.menulateral{
+    background-color: rgb(167, 103, 20);
+    padding: 20px;
+}
+
+.breadcrumbs{
+    background-color: pink;
+    padding: 5px;
+}
+
+.noticiagrande{
+    background-color: rgb(114, 86, 26);
+    padding: 30px;
+    text-align: center;
+}
+
+.noticiapequeña{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    padding: 25px;
+}
+
+.piedepagina{
+    background-color: green;
+    color: aquamarine;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
